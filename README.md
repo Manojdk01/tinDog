@@ -1,2 +1,1 @@
-# tinDog
-TinDog second project for practice
+TinDog Starting Files
